@@ -79,14 +79,9 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 #### Pools Using This Software
 
 * http://xminingpool.com
-* http://extremepool.org
-* http://noclaymorefee.com
-* http://nicepool.org
 * https://yaymining.com
-* http://bbr.unipool.pro
 * http://multihash.de
 * http://monero.rs
-* http://backup-pool.com/monero
 
 Usage
 ===
